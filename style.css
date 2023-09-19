@@ -121,6 +121,9 @@ background-size:100px auto;
     main{
         height: 300px;
     }
+    footer{
+        height: 60px;
+    }
    
     
 }
