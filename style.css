@@ -119,7 +119,7 @@ background-size:100px auto;
     }
 
     main{
-        height: 400px;
+        min-height: 300px;
     }
     footer{
         height: 60px;
