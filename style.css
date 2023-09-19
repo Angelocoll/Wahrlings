@@ -54,6 +54,11 @@ body{
 }
 .contact:hover{
     scale: 1.3;
+    transition: all 0.25s;
+}
+.contact:not(:hover)
+{
+    transition: all 3s;
 }
 h3{
     text-align: center;
